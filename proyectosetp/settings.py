@@ -81,7 +81,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-
 # Heroku
 
 # Parse database configuration from $DATABASE_URL
